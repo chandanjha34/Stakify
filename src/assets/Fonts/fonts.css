@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Banana'; /* Replace with the font name you prefer */
+    src: url('./bananas-italic-font//BananasItalicPersonalUseRegular-WyBxO.ttf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'crotah'; /* Replace with the font name you prefer */
+    src: url('./crotah-font/CrotahFreeVersionItalic-z8Ev3.ttf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'air'; /* Replace with the font name you prefer */
+    src: url('./air-travelers-font/AirtravelerspersonaluseBdit-ow59x.otf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'blackthorn'; /* Replace with the font name you prefer */
+    src: url('./blackthorn-font//BlackthornFreeRegular-MAZAe.ttf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'creamy'; /* Replace with the font name you prefer */
+    src: url('./creamy-sugar-font//CreamySugar-gxnGR.ttf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'cursive'; /* Replace with the font name you prefer */
+    src: url('./creamy-sugar-font/CreamySugar-gxnGR.ttf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'cursive2'; /* Replace with the font name you prefer */
+    src: url('./austie-bost-versailles-font/AustieBostVersailles-xZ7q.ttf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'lion'; /* Replace with the font name you prefer */
+    src: url('./lionburg-font/Lionburg-axAmg.otf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'cursive3'; /* Replace with the font name you prefer */
+    src: url('./keynord-font/Keynord-7OORK.otf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'cursive4'; /* Replace with the font name you prefer */
+    src: url('./holystone-font/HolystoneDemo-nRjX4.ttf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'cursive5'; /* Replace with the font name you prefer */
+    src: url('./lacona-font/LaconaDemo-1GvLg.ttf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'cursive6'; /* Replace with the font name you prefer */
+    src: url('./reglarik-font/Reglarik-j99mj.otf') format('truetype'); /* Update with the exact font file name */
+    font-weight: normal;
+    font-style: normal;
+  }

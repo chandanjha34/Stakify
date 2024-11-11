@@ -9,7 +9,7 @@ function Feature(){
 
     return(
 
-        <div className="flex gap-[70px] w-full bg-[#36343B] px-[70px] text-white font-bold">
+        <div className="flex gap-[70px] w-full bg-[#36343B] font-[cursive] px-[70px] text-white font-bold">
             <div className="flex flex-col">
                 <div><video src={stake} className="loop" loop autoPlay muted></video></div>
                 <div className="text-center">STAKE <br /> CRYPTO <br /> CURRENCY</div>

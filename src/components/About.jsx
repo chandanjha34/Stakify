@@ -54,7 +54,7 @@ function About(){
     return(
         <div ref={aboutRef} className="w-full h-screen bg-[#36343B] overflow-hidden text-white">
             <div className="text-[300%] font-bold  text-end translate-x-[-35px]" >
-                <h1 className="underline text-[#FF3B3B]">About Stakify</h1>
+                <h1 className=" text-[#ffffff] font-[cursive]">About Stakify</h1>
             </div>
             <div className="absolute flex flex-col gap-[20px] w-[60vw] text-[130%]  text-start px-[5vw] leading-[130%] translate-y-[10vh]" >
                 <p className="sub-text">Stakify revolutionizes staking by adding high-stakes betting options, letting users earn both steady rewards and higher-risk returns. <br/> This unique approach appeals to crypto users with varied <br/> risk levels.</p>

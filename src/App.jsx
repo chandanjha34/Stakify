@@ -3,7 +3,7 @@ import './App.css'
 import Hero from './components/Hero'
 import About from './components/About'
 import Features from './components/Feature'
-import Guides from './components/Guide'
+import Guides from './components/Guide.jsx'
 import Reward from './components/Reward'
 
 function App() {
