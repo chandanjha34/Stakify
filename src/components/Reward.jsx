@@ -107,7 +107,9 @@ function Reward(){
                                     {assets.map((asset)=>(
                                         <div key={asset.value}  onClick={()=>changeAsset(asset)} className=" w-[200px] h-[50px] flex bg-[#BDBDBD] items-center gap-[10px]">
                                             <span><img className="w-6 h-6 translate-x-[5px]" src={asset.img} alt="" /></span>
-                                            <span className="text-[140%] translate-x-[5px]">{asset.label}</span>
+                                            
+                                                <span className="text-[140%] translate-x-[5px]">{asset.label}</span>
+                                        
                                         </div>
                                     ))}
                                 </div>
